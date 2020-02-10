@@ -1,10 +1,14 @@
 body {
   background-color: lightblue;
 }
+
 .darkblue-text{
   background-color: #db9833;
   color: darkblue;
   text-align: center;
+  font-size: 34px;
+  font-family: courier;
+  font-weight: bold;
 }
 .center {
   display: block;
@@ -16,9 +20,11 @@ h2 {
   color: darkblue;
   text-align: center;
   font-style: normal;
-  font-family: verdana;
+  font-family: courier;
+  font-size: 34px;
+  font-weight: bolder;
 }
 p {
-  font-family: verdana;
+  font-family: courier;
   font-size: 20px;
 }
