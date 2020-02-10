@@ -14,7 +14,7 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
-h2 {
+h1 {
   background-color: #db9833;
   color: darkblue;
   text-align: center;
@@ -26,7 +26,7 @@ p {
   font-family: courier;
   font-size: 20px;
 }
-h3 {
+h2 {
   background-color: #db9833;
   color: darkblue;
   text-align: center;
@@ -34,9 +34,35 @@ h3 {
   font-family: courier;
   font-size: 34px;
 }
-h4 {
+h3 {
   color: darkblue;
-  text-align: left;
+  text-align: center;
+  font-style: normal;
+  font-family: courier;
+  font-size: 34px;
+}
+
+.bigbox{
+  width: 1460px;
+  height: 420px;
+  padding: -40px;
+  background-color: #db9833;
+}
+
+.square1{
+  width: 680px;
+  height: 280px;
+  background-color: blue;
+  margin-top: 70px;
+  margin-left: 10px;
+  color: white;
+  padding: 10px;
+  background-color: lightblue;
+}
+h4{
+  margin-top: 10px;
+  color: darkblue;
+  text-align: center;
   font-style: normal;
   font-family: courier;
   font-size: 28px;
@@ -45,22 +71,10 @@ ul {
   text-align: left;
   font-family: courier;
   font-size: 20px;
+  color: black;
+  font-weight: bold;
 }
-.bigbox{
-  width: 1460px;
-  height: 420px;
-  padding: -40px;
-  background-color: #db9833;
-}
-.square1{
-  width: 680px;
-  height: 280px;
-  background-color: blue;
-  margin-top: 10px;
-  margin-left: 10px;
-  color: white;
-  padding: 10px;
-}
+
 .square2{
   width: 680px;
   height: 280px;
@@ -69,4 +83,13 @@ ul {
   margin-left: 750px;
   color: white;
   padding: 10px;
+  background-color: lightgreen;
+}
+h5{
+  margin-top: 10px;
+  color: darkblue;
+  text-align: center;
+  font-style: normal;
+  font-family: courier;
+  font-size: 28px;
 }
