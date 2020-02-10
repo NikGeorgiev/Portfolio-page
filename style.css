@@ -8,7 +8,6 @@ body {
   text-align: center;
   font-size: 34px;
   font-family: courier;
-  font-weight: bold;
 }
 .center {
   display: block;
@@ -22,9 +21,21 @@ h2 {
   font-style: normal;
   font-family: courier;
   font-size: 34px;
-  font-weight: bolder;
 }
 p {
+  font-family: courier;
+  font-size: 20px;
+}
+h3 {
+  background-color: #db9833;
+  color: darkblue;
+  text-align: center;
+  font-style: normal;
+  font-family: courier;
+  font-size: 34px;
+}
+ul {
+  text-align: left;
   font-family: courier;
   font-size: 20px;
 }
