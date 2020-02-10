@@ -34,8 +34,39 @@ h3 {
   font-family: courier;
   font-size: 34px;
 }
+h4 {
+  color: darkblue;
+  text-align: left;
+  font-style: normal;
+  font-family: courier;
+  font-size: 28px;
+}
 ul {
   text-align: left;
   font-family: courier;
   font-size: 20px;
+}
+.bigbox{
+  width: 1460px;
+  height: 420px;
+  padding: -40px;
+  background-color: #db9833;
+}
+.square1{
+  width: 680px;
+  height: 280px;
+  background-color: blue;
+  margin-top: 10px;
+  margin-left: 10px;
+  color: white;
+  padding: 10px;
+}
+.square2{
+  width: 680px;
+  height: 280px;
+  background-color: blue;
+  margin-top: -300px;
+  margin-left: 750px;
+  color: white;
+  padding: 10px;
 }
